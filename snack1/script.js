@@ -1,4 +1,4 @@
-// Esercizio: Fizz Buzz
+// Esercizio: Snack1
 
 /* Traccia: 
 Creare un array di oggetti:
